@@ -1,4 +1,4 @@
-## Привет 👋
+## Hybrid Blockchain Contract Tokenization Platform
 
 ![2024-12-13_13-10-14](https://github.com/user-attachments/assets/4baedf29-00b6-4dc8-a3c6-1b2ed46638d0)
 
