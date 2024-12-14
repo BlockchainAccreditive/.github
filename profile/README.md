@@ -3,7 +3,7 @@
 ![uptime](https://github.com/user-attachments/assets/9913abf2-d21d-4399-9b94-23766a40b191)
 ![2024-12-13_13-10-14](https://github.com/user-attachments/assets/4baedf29-00b6-4dc8-a3c6-1b2ed46638d0)
 
-
+[Sepolia Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
 
 <!--![scale_1200](https://github.com/user-attachments/assets/494bc8eb-14d1-4385-a2eb-d4bd586da35e)-->
 
