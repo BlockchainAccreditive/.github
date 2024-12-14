@@ -1,5 +1,5 @@
 ## Hybrid Blockchain Contract Tokenization Platform
-
+![uptime](https://github.com/user-attachments/assets/9913abf2-d21d-4399-9b94-23766a40b191)
 ![2024-12-13_13-10-14](https://blockchainaccreditive.github.io/css/EMTECH2.png)
 ![2024-12-13_13-10-14](https://github.com/user-attachments/assets/4baedf29-00b6-4dc8-a3c6-1b2ed46638d0)
 
